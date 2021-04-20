@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    font-size: 62.5%;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 6rem;
+}
+
+h2 {
+    font-size: 3.2rem;
+}
+
+ul {
+    margin: 15px 0;
+}
+
+li {
+    margin-bottom: 15px;
+    font-size: 2rem;
+}
+
+#image {
+    max-width: 100%;
+}
+
+.summary {
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+
+.summary,
+h1,
+figure,
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+figure {
+    flex-direction: column;
+}
+
+figcaption {
+    font-size: 1.6rem;
+    margin: 8px 0;
+}
+
+#tribute-info {
+    font-size: 2.4rem;
+}
+
+.more-information,
+a {
+    font-size: 2rem;
+}
+
+.more-information {
+    margin-bottom: 15px;
+}
